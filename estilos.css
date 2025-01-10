@@ -201,6 +201,11 @@ body {
     margin-top: 1.5rem;
 }
 
+.bento-grid .item:nth-child(7) span {
+    font-size: 4.5rem;
+    font-weight: 600;
+}
+
 .bento-grid .item:nth-child(8) {
     grid-area: box8;
     display: grid;
